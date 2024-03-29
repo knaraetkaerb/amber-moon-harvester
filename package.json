@@ -1,0 +1,23 @@
+{
+  "name": "amber-moon-harvester",
+  "version": "1.0.0",
+  "description": "Offers a platform for social media analytics and management, optimizing engagement strategies and online presence.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/amber-moon-harvester"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "emerald-sun-chaser": "1.0.0",
+    "opal-sky-surveyor": "1.0.0",
+    "cors": "1.0.0",
+    "async": "1.0.0"
+  }
+}
